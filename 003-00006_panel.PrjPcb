@@ -18,7 +18,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Release Data - 003-00006
+DefaultConfiguration=Release Data - 003-00006_panel
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -178,7 +178,7 @@ Name=PCBPartNumber
 Value=001-00006
 
 [Configuration1]
-Name=Release Data - 003-00006
+Name=Release Data - 003-00006_panel
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
@@ -190,7 +190,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=PCB.OutJob
 
 [Configuration2]
-Name=Release Data - 001-00006
+Name=Release Data - 001-00006_panel
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
